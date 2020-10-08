@@ -38,7 +38,7 @@ $ mix test
 
 ## Easy
 
-<table class="table table-success table-hover">
+<table>
   <thead>
     <tr>
       <th>
@@ -63,7 +63,7 @@ $ mix test
 
 ## Medium
 
-<table class="table table-warning table-hover">
+<table>
   <thead>
     <tr>
       <th>
@@ -88,7 +88,7 @@ $ mix test
 
 ## Hard
 
-<table class="table table-danger table-hover">
+<table>
   <thead>
     <tr>
       <th>
@@ -110,16 +110,3 @@ $ mix test
     </tr>
   </tbody>
 </table>
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css">
-
-<style>
-  body {
-    background: #1E1E1E;
-    color: white;
-  }
-
-  a:link, a:visited, a:active {
-    text-decoration: none;
-  }
-</style>
