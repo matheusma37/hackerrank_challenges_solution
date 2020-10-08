@@ -61,7 +61,7 @@ $ mix test
         </a>
       </td>
       <td>
-        <a href="/blob/master/lib/solve_me_first_fp.ex">
+        <a href="/lib/solve_me_first_fp.ex">
           here
         </a>
       </td>
