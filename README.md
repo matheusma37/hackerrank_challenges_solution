@@ -54,9 +54,17 @@ $ mix test
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1</td>
+      <td>
+        <a href="https://www.hackerrank.com/challenges/fp-solve-me-first/problem">
+          Solve Me First FP
+        </a>
+      </td>
+      <td>
+        <a href="/blob/master/lib/solve_me_first_fp.ex">
+          here
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
