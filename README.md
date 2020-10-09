@@ -66,6 +66,19 @@ $ mix test
         </a>
       </td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>
+        <a href="https://www.hackerrank.com/challenges/fp-hello-world/problem">
+          Hello World
+        </a>
+      </td>
+      <td>
+        <a href="/lib/hello_world.ex">
+          here
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
