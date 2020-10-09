@@ -79,6 +79,19 @@ $ mix test
         </a>
       </td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        <a href="https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem">
+          Hello World N Times
+        </a>
+      </td>
+      <td>
+        <a href="/lib/hello_world_n_times.ex">
+          here
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
