@@ -92,6 +92,19 @@ $ mix test
         </a>
       </td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>
+        <a href="https://www.hackerrank.com/challenges/fp-list-replication/problem">
+          List Replication
+        </a>
+      </td>
+      <td>
+        <a href="/lib/list_replication.ex">
+          here
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
